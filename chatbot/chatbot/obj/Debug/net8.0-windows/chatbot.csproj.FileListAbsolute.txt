@@ -1,0 +1,16 @@
+C:\Users\Nergis\source\repos\chatbot\chatbot\bin\Debug\net8.0-windows\chatbot.exe
+C:\Users\Nergis\source\repos\chatbot\chatbot\bin\Debug\net8.0-windows\chatbot.deps.json
+C:\Users\Nergis\source\repos\chatbot\chatbot\bin\Debug\net8.0-windows\chatbot.runtimeconfig.json
+C:\Users\Nergis\source\repos\chatbot\chatbot\bin\Debug\net8.0-windows\chatbot.dll
+C:\Users\Nergis\source\repos\chatbot\chatbot\bin\Debug\net8.0-windows\chatbot.pdb
+C:\Users\Nergis\source\repos\chatbot\chatbot\obj\Debug\net8.0-windows\chatbot.Form1.resources
+C:\Users\Nergis\source\repos\chatbot\chatbot\obj\Debug\net8.0-windows\chatbot.csproj.GenerateResource.cache
+C:\Users\Nergis\source\repos\chatbot\chatbot\obj\Debug\net8.0-windows\chatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nergis\source\repos\chatbot\chatbot\obj\Debug\net8.0-windows\chatbot.AssemblyInfoInputs.cache
+C:\Users\Nergis\source\repos\chatbot\chatbot\obj\Debug\net8.0-windows\chatbot.AssemblyInfo.cs
+C:\Users\Nergis\source\repos\chatbot\chatbot\obj\Debug\net8.0-windows\chatbot.csproj.CoreCompileInputs.cache
+C:\Users\Nergis\source\repos\chatbot\chatbot\obj\Debug\net8.0-windows\chatbot.dll
+C:\Users\Nergis\source\repos\chatbot\chatbot\obj\Debug\net8.0-windows\refint\chatbot.dll
+C:\Users\Nergis\source\repos\chatbot\chatbot\obj\Debug\net8.0-windows\chatbot.pdb
+C:\Users\Nergis\source\repos\chatbot\chatbot\obj\Debug\net8.0-windows\chatbot.genruntimeconfig.cache
+C:\Users\Nergis\source\repos\chatbot\chatbot\obj\Debug\net8.0-windows\ref\chatbot.dll
